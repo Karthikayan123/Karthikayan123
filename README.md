@@ -2,6 +2,7 @@
 I'm Puthu Karthikayan._
 I'm a B.Tech AI & DS Student in Anna University Regional Campus Tirunelveli...
 I love Studying, Coding and Singing, Eating.
+Tomorrow is my 2nd CAT Exam.
 <!--
 **Karthikayan123/Karthikayan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
